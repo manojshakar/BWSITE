@@ -136,6 +136,9 @@ font-family: 'Montserrat';
     background-image: url("../../images/background.jpg");
     background-position: center center;
     background-size: cover; }
+
+
+
     @media (max-width: 800px) {
       .fs-split .split-image {
         height: 80vh;
